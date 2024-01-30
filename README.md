@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielikeobi
-- 👀 I’m interested in Web Development and Data Analysis
-- 🌱 I’m currently a Computer Science student in Carleton Univerity
+- 👀 I’m interested in Software Engineering, Web Development and Data Analysis
+- 🌱 I have a Bachelor's degree in Computer Science from Carleton Univerity
 - 💞️ I’m looking to collaborate on any interesting projects because I love building new things.
 - 📫 You can reach me at ikeobichigozie@gmail.com
 
